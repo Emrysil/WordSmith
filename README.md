@@ -18,18 +18,18 @@ From the project directory, cd to /api, run:
 
 ### Home page
 
-<img src="/Users/lixintong/Desktop/ProGram/WordSmith/docs/images/homePage.png" style="zoom:50%;" />
+<img src="docs/images/homePage.png" style="zoom:25%;" />
 
 ### Login page
 
-<img src="/Users/lixintong/Desktop/ProGram/WordSmith/docs/images/login.png" style="zoom:50%;" />
+<img src="docs/images/login.png" style="zoom:25%;" />
 
 ### Search page
 
-<img src="/Users/lixintong/Desktop/ProGram/WordSmith/docs/images/searchPage.png" style="zoom:50%;" />
+<img src="docs/images/searchPage.png" style="zoom:25%;" />
 
 ### Publish page
 
-<img src="/Users/lixintong/Desktop/ProGram/WordSmith/docs/images/publish_text.png" alt="publish_text" style="zoom:50%;" />
+<img src="docs/images/publish_text.png" alt="publish_text" style="zoom:50%;" />
 
-![](/Users/lixintong/Desktop/ProGram/WordSmith/docs/images/publish_image.png)
+<img src="docs/images/publish_image.png" style="zoom:25%;" />
